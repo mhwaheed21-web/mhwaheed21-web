@@ -101,7 +101,7 @@ Building an **embedded AI system** that:
 
 ## 📫 Connect
 - 📧 mhwaheed21@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/muhammad-hamza-waheed  
+- 💼 LinkedIn: [https://linkedin.com/in/muhammad-hamza-waheed](https://www.linkedin.com/in/muhammad-hamza-waheed-a385242a9/)  
 - 💻 GitHub: https://github.com/mhwaheed21-web  
 
 ---
