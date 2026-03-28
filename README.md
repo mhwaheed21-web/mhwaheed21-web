@@ -76,13 +76,6 @@ I build **real-world ML systems** that are reliable, scalable, and impactful.
 
 ---
 
-## 🎓 Education
-🎓 BE Electrical Engineering  
-📍 NUST (CEME), Islamabad  
-📅 2023 – 2027  
-
----
-
 ## 📜 Certifications
 - Supervised ML (Coursera)  
 - End-to-End ML (DataCamp)  
