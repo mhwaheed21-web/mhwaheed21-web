@@ -84,14 +84,6 @@ I build **real-world ML systems** that are reliable, scalable, and impactful.
 
 ---
 
-## 🎯 Current Goal
-Building an **embedded AI system** that:
-- Takes real-world signals  
-- Processes them using ML  
-- Makes intelligent decisions  
-
----
-
 ## 📫 Connect
 - 📧 mhwaheed21@gmail.com  
 - 💼 LinkedIn: [https://linkedin.com/in/muhammad-hamza-waheed](https://www.linkedin.com/in/muhammad-hamza-waheed-a385242a9/)  
