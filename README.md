@@ -1,123 +1,106 @@
-# 🌟 Muhammad Hamza Waheed
-💻 Full-Stack AI Engineer | Generative AI | Embedded AI Systems
-Machine learning–focused Electrical Engineering student at NUST (CEME)
-with hands-on experience in **signal processing, deep learning, agentic AI systems, and full-stack AI product development**.
-I build **real-world AI systems** that are reliable, scalable, and production-deployed.
+# Muhammad Hamza Waheed
+
+Full-Stack AI Engineer | Generative AI | Embedded AI Systems
+
+Machine learning–focused Electrical Engineering student at NUST (CEME) with hands-on experience in signal processing, deep learning, agentic AI systems, and full-stack AI product development. Focused on building reliable, scalable, and production-ready AI systems.
 
 ---
 
-## 🚀 Experience
-- 🔹 Freelance ML Projects (2024 – Present)
-  - Built and deployed ML models end-to-end (training → evaluation → deployment)
-  - Worked on real-world data-driven solutions
+## Experience
+
+### Freelance Machine Learning Projects | 2024 – Present
+- Built and deployed machine learning solutions end-to-end, from data preprocessing and model training to deployment and monitoring
+- Developed AI-driven applications for real-world use cases using modern ML and LLM frameworks
+- Worked on scalable backend systems, API integrations, and deployment pipelines
 
 ---
 
-## 🧠 Core Focus
-- 🤖 Generative AI & LLM Applications
-- 🔗 Retrieval-Augmented Generation (RAG)
-- ⚙️ Agentic AI (LangChain, LangGraph)
-- 🏗️ Full-Stack AI Product Development
-- 📡 Signal Processing + ML Integration
-- 🚀 Real-World ML Deployment Systems
+## Core Expertise
+
+- Generative AI and LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems (LangChain, LangGraph)
+- Full-Stack AI Product Development
+- Signal Processing and Machine Learning Integration
+- AI Deployment and Scalable Infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-💡 Languages
-`Python` `C++` `MATLAB`
+### Languages
+Python, C++, MATLAB
 
-🤖 Machine Learning
-`PyTorch` `TensorFlow` `scikit-learn`
-`CNNs` `SVM` `Feature Engineering`
+### Machine Learning & AI
+PyTorch, TensorFlow, scikit-learn, CNNs, SVMs, Feature Engineering
 
-🧩 Generative AI
-`LangChain` `LangGraph` `RAG`
-`Prompt Engineering` `LLM Apps` `GPT-4o`
+### Generative AI
+LangChain, LangGraph, RAG Pipelines, Prompt Engineering, GPT-4o
 
-🌐 Web & Backend
-`FastAPI` `React` `PostgreSQL`
-`REST APIs` `JWT` `SQLAlchemy`
+### Backend & Web Development
+FastAPI, React, PostgreSQL, REST APIs, JWT Authentication, SQLAlchemy
 
-☁️ DevOps & Cloud
-`Docker` `Azure Container Apps` `GitHub Actions`
-`CI/CD` `LangSmith` `Linux`
+### DevOps & Cloud
+Docker, Azure Container Apps, GitHub Actions, CI/CD, LangSmith, Linux
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 🧠 AI-Powered CV Maker
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mhwaheed21-web/CV-Maker)
+### AI-Powered CV Maker
+GitHub: https://github.com/mhwaheed21-web/CV-Maker
 
-- Full-stack AI platform that tailors CVs to any job description using **GPT-4o** in under 30 seconds
-- Built **26+ async REST APIs** with FastAPI, JWT auth, and SQLAlchemy across 8 relational tables
-- Engineered a **no-hallucination AI pipeline** — rewrites your content, never invents — validated with Pydantic schemas
-- AI **chat editing interface** — refine your CV with natural language commands, history persisted per CV
-- Automated **PDF generation across 5 professional templates** using Jinja2 + WeasyPrint
-- Deployed on **Azure Container Apps** with full CI/CD via GitHub Actions — push to main, live in under 5 minutes
+A full-stack AI platform that tailors resumes to specific job descriptions using GPT-4o.
 
-**Stack:** `FastAPI` `React` `PostgreSQL` `GPT-4o` `Docker` `Azure` `GitHub Actions` `WeasyPrint`
+- Built and integrated 26+ asynchronous REST APIs using FastAPI, SQLAlchemy, JWT authentication, and PostgreSQL
+- Designed a controlled AI pipeline that rewrites and optimizes resume content without hallucinating information
+- Developed an interactive AI-assisted editing system with persistent chat history for each resume
+- Implemented automated PDF generation with multiple professional templates using Jinja2 and WeasyPrint
+- Deployed the platform on Azure Container Apps with automated CI/CD pipelines using GitHub Actions
 
----
-
-### 🤖 Conversational AI Chatbot
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mhwaheed21-web/Basic-Chatbot)
-
-- Built using **LangGraph + SQLite + Streamlit**
-- Persistent memory + context-aware responses
-- Monitored using LangSmith, containerized with Docker
+**Technologies:** FastAPI, React, PostgreSQL, GPT-4o, Docker, Azure Container Apps, GitHub Actions, WeasyPrint
 
 ---
 
-### 🎬 Automated Video Captioning System
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mhwaheed21-web/Caption-Generator)
+### Automated Video Captioning System
+GitHub: https://github.com/mhwaheed21-web/Caption-Generator
 
-- Used **Whisper + FFmpeg**
-- Extracted audio → converted to text → UI via Streamlit
+An AI-based video captioning application that automates speech-to-text generation from video files.
 
----
+- Built an automated pipeline using Whisper and FFmpeg for audio extraction and transcription
+- Developed a Streamlit-based interface for uploading videos and displaying generated captions
+- Improved accessibility and content processing efficiency through automated subtitle generation
 
-### ✍️ AI Blog Generation Agent
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mhwaheed21-web/Blog-Writer)
-
-- Built a **goal-driven LLM agent**
-- Uses tool-calling to **plan, research, and generate content**
+**Technologies:** Python, Whisper, FFmpeg, Streamlit
 
 ---
 
-### ⚙️ Low-Code Application Builder
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mhwaheed21-web/App-Builder)
+### Agentic AI Personal Knowledge System (Collaboration Project)
+GitHub: https://github.com/Sikandarh11/Agentic-AI-Personal-Knowledge-System
 
-- Generates full-stack applications from prompts
-- Uses **LLM tool-calling + structured workflows**
+Collaborative project focused on building an agentic AI-powered personal knowledge management system.
 
----
+- Contributed to the development of AI workflows for intelligent information retrieval and contextual interaction
+- Worked on integrating LLM-driven agents with structured knowledge storage and retrieval pipelines
+- Assisted in designing scalable architecture for personalized knowledge management and automation
 
-### 📊 Student Record Management System
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mhwaheed21-web/Student-Record-Management-System)
-
-- CLI-based system using **C++ + Data Structures**
-- File-based storage for record management
+**Technologies:** LangChain, LangGraph, Python, LLM Agents, RAG
 
 ---
 
-## 📜 Certifications
-- Supervised ML (Coursera)
-- End-to-End ML (DataCamp)
-- OpenAI API (DataCamp)
-- Git (DataCamp)
+## Certifications
+
+- Supervised Machine Learning — Coursera
+- End-to-End Machine Learning — DataCamp
+- OpenAI API Fundamentals — DataCamp
+- Git Fundamentals — DataCamp
 
 ---
 
-## 📫 Connect
-- 📧 mhwaheed21@gmail.com
-- 💼 LinkedIn: [muhammad-hamza-waheed](https://www.linkedin.com/in/muhammad-hamza-waheed-a385242a9/)
-- 💻 GitHub: [mhwaheed21-web](https://github.com/mhwaheed21-web)
+## Contact
 
----
+Email: mhwaheed21@gmail.com
 
-## ⚡ Fun Fact
-I'm focused on building systems where
-**⚡ hardware meets 🤖 intelligence**
+LinkedIn: https://www.linkedin.com/in/muhammad-hamza-waheed-a385242a9/
+
+GitHub: https://github.com/mhwaheed21-web
