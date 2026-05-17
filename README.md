@@ -103,4 +103,4 @@ An AI-based video captioning application that automates speech-to-text generatio
 
 💼 LinkedIn: https://www.linkedin.com/in/muhammad-hamza-waheed-a385242a9/
 
-💻 GitHub: https://github.com/mhwaheed21-web
+💻 Portfolio: https://www.mhwaheed.dev/
