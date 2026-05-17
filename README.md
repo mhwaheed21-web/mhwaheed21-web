@@ -62,19 +62,6 @@ A full-stack AI platform that tailors resumes to specific job descriptions using
 
 ---
 
-### 🎬 Automated Video Captioning System
-GitHub: https://github.com/mhwaheed21-web/Caption-Generator
-
-An AI-based video captioning application that automates speech-to-text generation from video files.
-
-- Built an automated pipeline using Whisper and FFmpeg for audio extraction and transcription
-- Developed a Streamlit-based interface for uploading videos and displaying generated captions
-- Improved accessibility and content processing efficiency through automated subtitle generation
-
-**Technologies:** Python, Whisper, FFmpeg, Streamlit
-
----
-
 ### 🤝 Agentic AI Personal Knowledge System (Collaboration Project)
 GitHub: https://github.com/Sikandarh11/Agentic-AI-Personal-Knowledge-System
 
@@ -85,6 +72,19 @@ Collaborative project focused on building an agentic AI-powered personal knowled
 - Assisted in designing scalable architecture for personalized knowledge management and automation
 
 **Technologies:** LangChain, LangGraph, Python, LLM Agents, RAG
+
+---
+
+### 🎬 Automated Video Captioning System
+GitHub: https://github.com/mhwaheed21-web/Caption-Generator
+
+An AI-based video captioning application that automates speech-to-text generation from video files.
+
+- Built an automated pipeline using Whisper and FFmpeg for audio extraction and transcription
+- Developed a Streamlit-based interface for uploading videos and displaying generated captions
+- Improved accessibility and content processing efficiency through automated subtitle generation
+
+**Technologies:** Python, Whisper, FFmpeg, Streamlit
 
 ---
 
