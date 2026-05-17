@@ -1,12 +1,12 @@
 # Muhammad Hamza Waheed
 
-Full-Stack AI Engineer | Generative AI | Embedded AI Systems
+💻 Full-Stack AI Engineer | 🤖 Generative AI | ⚙️ Embedded AI Systems
 
 Machine learning–focused Electrical Engineering student at NUST (CEME) with hands-on experience in signal processing, deep learning, agentic AI systems, and full-stack AI product development. Focused on building reliable, scalable, and production-ready AI systems.
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Freelance Machine Learning Projects | 2024 – Present
 - Built and deployed machine learning solutions end-to-end, from data preprocessing and model training to deployment and monitoring
@@ -15,7 +15,7 @@ Machine learning–focused Electrical Engineering student at NUST (CEME) with ha
 
 ---
 
-## Core Expertise
+## 🧠 Core Expertise
 
 - Generative AI and LLM Applications
 - Retrieval-Augmented Generation (RAG)
@@ -26,28 +26,28 @@ Machine learning–focused Electrical Engineering student at NUST (CEME) with ha
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### Languages
+### 💡 Languages
 Python, C++, MATLAB
 
-### Machine Learning & AI
+### 🤖 Machine Learning & AI
 PyTorch, TensorFlow, scikit-learn, CNNs, SVMs, Feature Engineering
 
-### Generative AI
+### 🧩 Generative AI
 LangChain, LangGraph, RAG Pipelines, Prompt Engineering, GPT-4o
 
-### Backend & Web Development
+### 🌐 Backend & Web Development
 FastAPI, React, PostgreSQL, REST APIs, JWT Authentication, SQLAlchemy
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 Docker, Azure Container Apps, GitHub Actions, CI/CD, LangSmith, Linux
 
 ---
 
-## Projects
+## 📌 Projects
 
-### AI-Powered CV Maker
+### 🧠 AI-Powered CV Maker
 GitHub: https://github.com/mhwaheed21-web/CV-Maker
 
 A full-stack AI platform that tailors resumes to specific job descriptions using GPT-4o.
@@ -62,7 +62,7 @@ A full-stack AI platform that tailors resumes to specific job descriptions using
 
 ---
 
-### Automated Video Captioning System
+### 🎬 Automated Video Captioning System
 GitHub: https://github.com/mhwaheed21-web/Caption-Generator
 
 An AI-based video captioning application that automates speech-to-text generation from video files.
@@ -75,7 +75,7 @@ An AI-based video captioning application that automates speech-to-text generatio
 
 ---
 
-### Agentic AI Personal Knowledge System (Collaboration Project)
+### 🤝 Agentic AI Personal Knowledge System (Collaboration Project)
 GitHub: https://github.com/Sikandarh11/Agentic-AI-Personal-Knowledge-System
 
 Collaborative project focused on building an agentic AI-powered personal knowledge management system.
@@ -88,7 +88,7 @@ Collaborative project focused on building an agentic AI-powered personal knowled
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - Supervised Machine Learning — Coursera
 - End-to-End Machine Learning — DataCamp
@@ -97,10 +97,10 @@ Collaborative project focused on building an agentic AI-powered personal knowled
 
 ---
 
-## Contact
+## 📫 Contact
 
-Email: mhwaheed21@gmail.com
+📧 Email: mhwaheed21@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/muhammad-hamza-waheed-a385242a9/
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-hamza-waheed-a385242a9/
 
-GitHub: https://github.com/mhwaheed21-web
+💻 GitHub: https://github.com/mhwaheed21-web
